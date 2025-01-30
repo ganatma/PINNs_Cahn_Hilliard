@@ -1,0 +1,6 @@
+numpy>=1.19.5
+matplotlib>=3.3.4
+scipy>=1.6.2
+tensorflow>=2.0
+pyDOE>=0.3.8
+jupyter>=1.0.0 
